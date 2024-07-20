@@ -1,0 +1,23 @@
+2024/06/25-14:30:16.297 32a0 Recovering log #64
+2024/06/25-14:30:16.300 32a0 Level-0 table #66: started
+2024/06/25-14:30:16.309 32a0 Level-0 table #66: 464978 bytes OK
+2024/06/25-14:30:16.314 32a0 Delete type=0 #64
+2024/06/25-14:30:16.314 32a0 Delete type=3 #63
+2024/06/25-14:31:15.327 31ec Level-0 table #69: started
+2024/06/25-14:31:15.327 31ec Level-0 table #69: 0 bytes OK
+2024/06/25-14:31:15.327 31ec Delete type=0 #67
+2024/06/25-14:31:15.330 31ec Manual compaction at level-0 from '!actors!4CABNPoqt6rNLC6E' @ 72057594037927935 : 1 .. '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 0 : 0; will stop at '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 1598 : 1
+2024/06/25-14:31:15.330 31ec Compacting 1@0 + 0@1 files
+2024/06/25-14:31:15.339 31ec Generated table #70@0: 284 keys, 460087 bytes
+2024/06/25-14:31:15.339 31ec Compacted 1@0 + 0@1 files => 460087 bytes
+2024/06/25-14:31:15.340 31ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/25-14:31:15.340 31ec Delete type=2 #66
+2024/06/25-14:31:15.343 31ec Manual compaction at level-0 from '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 1598 : 1 .. '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 0 : 0; will stop at (end)
+2024/06/25-14:31:15.350 31ec Manual compaction at level-1 from '!actors!4CABNPoqt6rNLC6E' @ 72057594037927935 : 1 .. '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 0 : 0; will stop at '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 1598 : 1
+2024/06/25-14:31:15.350 31ec Compacting 1@1 + 1@2 files
+2024/06/25-14:31:15.363 31ec Generated table #71@1: 284 keys, 460087 bytes
+2024/06/25-14:31:15.363 31ec Compacted 1@1 + 1@2 files => 460087 bytes
+2024/06/25-14:31:15.363 31ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/25-14:31:15.363 31ec Delete type=2 #62
+2024/06/25-14:31:15.364 31ec Delete type=2 #70
+2024/06/25-14:31:15.366 31ec Manual compaction at level-1 from '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 1598 : 1 .. '!actors.items.effects!n1SGOe6DeWa6el79.PQujswfngL3A9Kc0.updqtDJellxvoJvU' @ 0 : 0; will stop at (end)

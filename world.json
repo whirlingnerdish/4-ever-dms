@@ -1,0 +1,220 @@
+{
+  "title": "4-Ever DMs",
+  "id": "4-ever-dms",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "3.2.0",
+  "lastPlayed": "Tue Jun 25 2024 14:31:15 GMT-0500 (Central Daylight Time)",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-4-ever-dms-ddb-backgrounds",
+      "path": "packs/ddb-4-ever-dms-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-4-ever-dms-ddb-classes",
+      "path": "packs/ddb-4-ever-dms-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-4-ever-dms-ddb-subclasses",
+      "path": "packs/ddb-4-ever-dms-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-4-ever-dms-ddb-class-features",
+      "path": "packs/ddb-4-ever-dms-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-4-ever-dms-ddb-feats",
+      "path": "packs/ddb-4-ever-dms-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-4-ever-dms-ddb-items",
+      "path": "packs/ddb-4-ever-dms-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-4-ever-dms-ddb-monsters",
+      "path": "packs/ddb-4-ever-dms-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-4-ever-dms-ddb-vehicles",
+      "path": "packs/ddb-4-ever-dms-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-4-ever-dms-ddb-races",
+      "path": "packs/ddb-4-ever-dms-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-4-ever-dms-ddb-racial-traits",
+      "path": "packs/ddb-4-ever-dms-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-4-ever-dms-ddb-spells",
+      "path": "packs/ddb-4-ever-dms-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-4-ever-dms-ddb-tables",
+      "path": "packs/ddb-4-ever-dms-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-4-ever-dms-ddb-override",
+      "path": "packs/ddb-4-ever-dms-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "5e Tools Classes",
+      "type": "Item",
+      "name": "5e-tools-classes",
+      "path": "packs/5e-tools-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "5e Tools Class Features",
+      "type": "Item",
+      "name": "5e-tools-class-features",
+      "path": "packs/5e-tools-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "5e Tools Subclasses",
+      "type": "Item",
+      "name": "5e-tools-subclasses",
+      "path": "packs/5e-tools-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Summons",
+      "name": "ddb-4-ever-dms-ddb-summons",
+      "path": "packs/ddb-4-ever-dms-ddb-summons",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 11203
+}

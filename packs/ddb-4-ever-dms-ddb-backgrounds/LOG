@@ -1,0 +1,8 @@
+2024/06/25-14:30:16.551 6ac4 Recovering log #59
+2024/06/25-14:30:16.555 6ac4 Delete type=0 #59
+2024/06/25-14:30:16.555 6ac4 Delete type=3 #58
+2024/06/25-14:31:15.397 31ec Level-0 table #63: started
+2024/06/25-14:31:15.397 31ec Level-0 table #63: 0 bytes OK
+2024/06/25-14:31:15.398 31ec Delete type=0 #61
+2024/06/25-14:31:15.400 31ec Manual compaction at level-0 from '!items!0CZTIX9WuNRblo1O' @ 72057594037927935 : 1 .. '!items!zAo6l50HRMbR2j4s' @ 0 : 0; will stop at (end)
+2024/06/25-14:31:15.407 31ec Manual compaction at level-1 from '!items!0CZTIX9WuNRblo1O' @ 72057594037927935 : 1 .. '!items!zAo6l50HRMbR2j4s' @ 0 : 0; will stop at (end)
